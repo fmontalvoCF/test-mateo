@@ -2,3 +2,11 @@ Holoa Mateo quiero que pongas un comentario.
 esto es adicional test prue ba
 tedsst
 Hola cambio
+
+Git es una máquina del tiempo para tu código.
+Te permite guardar "fotos" de tu trabajo a medida que avanzas. 
+Si cometes un error, puedes regresar en el tiempo al momento exacto en que todo funcionaba bien.
+¿Para qué sirve?Guardar historial: Registra quién cambió qué, cuándo y por qué.
+Trabajar en equipo: Varias personas pueden modificar el mismo archivo a la vez sin borrarse 
+el trabajo entre sí.Hacer experimentos: Puedes crear una "rama" para probar una idea loca 
+sin alterar el proyecto original.
